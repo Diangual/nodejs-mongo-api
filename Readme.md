@@ -156,16 +156,6 @@ Si vous souhaitez développer ou tester l'application localement sans Docker, su
 
 ---
 
-## Contribuer
-
-Si vous souhaitez contribuer à ce projet, suivez ces étapes :
-1. Forkez le dépôt.
-2. Créez une nouvelle branche (`git checkout -b feature/nouvelle-fonctionnalité`).
-3. Committez vos changements (`git commit -m 'Ajouter une nouvelle fonctionnalité'`).
-4. Poussez vers la branche (`git push origin feature/nouvelle-fonctionnalité`).
-5. Ouvrez une Pull Request.
-
----
 
 ## Auteur
 
